@@ -1,0 +1,30 @@
+!!com.taobao.tae.config.domain.Config
+
+name: thinkphpfortae
+
+#网页标题的设置
+title: thinkphp
+
+#应用描述信息
+description: 
+
+#应用执行语言
+language: PHP
+
+#应用的作者
+author: soppy
+
+#应用的缩略图
+thumbnail: /assets/images/default.jpg
+
+#应用适用的类型: 1 tae 模块 2 独立站点
+type: 2
+
+#全局css的配置
+css: /assets/stylesheets/global.css
+
+#首页 通过域名直接访问的页面如test.uz.taobao.com访问时的页面
+index: /index.php
+
+
+

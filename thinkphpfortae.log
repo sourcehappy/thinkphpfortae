@@ -1,0 +1,8 @@
+11:55:00 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+11:55:00 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.005953s ]
+11:55:00 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.002826s ]
+11:55:00 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.066959s ]
+11:55:55 [DEBUG]: / | INFO: Tag[ app_begin ] --START--
+11:55:55 [DEBUG]: / | INFO: Run CheckTemplate Behavior [ RunTime:0.002311s ]
+11:55:55 [DEBUG]: / | INFO: Run ReadHtmlCache Behavior [ RunTime:0.003507s ]
+11:55:55 [DEBUG]: / | INFO: Tag[ app_begin ] --END-- [ RunTime:0.007966s ]
